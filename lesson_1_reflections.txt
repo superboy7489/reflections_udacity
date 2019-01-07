@@ -1,0 +1,10 @@
+In each version, you may mistype something. Therefore, seeing the two helps clarify what is wrong.
+Bugs usually are introduced because versions updates so comparing the two can help.
+if you want to go back to the past anytime, can just access that history file so more efficient.
+Pros: you know when you significantly change things and the change should be memorized.
+Cons: human error can cause commits to be too many times or too few times.
+Because git is designed for coding.
+How can you use the commands git log and git diff to view the history of files?
+git log to see changes ID and comments. git diff to see what changes between files.
+How might using version control make you more confident to make changes that could break something?
+you can always revert back to previous version when you break something

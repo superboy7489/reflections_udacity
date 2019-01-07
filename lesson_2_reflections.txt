@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+create .git folder to prepare for file history memory
