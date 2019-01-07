@@ -1,2 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
 create .git folder to prepare for file history memory
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+staging area prepares what's on the stage to be committed to repository. To help prepare things to commit, don't need to commit everything in the working directory.
+How can you use the staging area to make sure you have one commit per logical change?
+add only files you want to commit to staging area
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When you want to separate your project into several versions. Create a new branch to store a new version.
